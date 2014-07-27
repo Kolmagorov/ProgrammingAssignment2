@@ -1,4 +1,4 @@
-## Two functions  below compute 
+## Two functions  below create matrix, compute its inverse and store it in cache
 
 # This function create a list containing 4 elements, input matrix itself, inverse matrix,
 # new input matrix and recalculated cached matrix
